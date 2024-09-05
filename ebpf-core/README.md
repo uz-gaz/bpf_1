@@ -10,5 +10,6 @@
 
 ##### Example of simulation
 ```bash
-core/scripts/launch-peripheral-testbench.sh --imem test_alu --tb program_test
+./scripts/launch-peripheral-testbench.sh --imem test_alu --tb program_test
+gtkwave waves/test.ghw -a ./misc/gtkwave_layouts/peripheral_layout.gtkw
 ```
