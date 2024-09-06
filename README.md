@@ -1,6 +1,6 @@
 # A basic processor core unit for running BPF programs
 
-Author: Fernando Lahoz Bernad
+Author: Fernando Lahoz Bernad (ferlahozbernad@gmail.com)
 
 Source repo: https://github.com/fernando-lahoz/tfg-bpf-basic-core
 
